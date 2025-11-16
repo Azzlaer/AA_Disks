@@ -15,6 +15,10 @@ avanzadas de administración del sistema desde un entorno web seguro.
 
 ------------------------------------------------------------------------
 
+![Descripci贸n de la imagen](https://github.com/Azzlaer/AA_Disks/blob/main/capturas/01.png)
+![Descripci贸n de la imagen](https://github.com/Azzlaer/AA_Disks/blob/main/capturas/02.png)
+
+
 ## 🧩 Características principales
 
 ### 🔐 Sistema de Login
